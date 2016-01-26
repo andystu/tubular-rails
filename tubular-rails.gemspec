@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["andy@stu.edu.tw"]
   spec.summary       = %q{Tubular is a jQuery plugin that lets you set a YouTube video as your page background. Just attach it to your page wrapper element, set some options, and you're on your way.}
   spec.description   = %q{Tubular is a jQuery plugin that lets you set a YouTube video as your page background. Just attach it to your page wrapper element, set some options, and you're on your way.}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/andystu/tubular-rails"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
