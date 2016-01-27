@@ -1,4 +1,4 @@
-Copyright (c) 2016 andy
+Copyright (c) 2010 Sean McCambridge | http://www.seanmccambridge.com/tubular
 
 MIT License
 
